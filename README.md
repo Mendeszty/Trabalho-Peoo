@@ -1,4 +1,4 @@
-Menezes, Elisabeth. Resumo de programação orientada a objetos. EstrategiaConcursos. Disponível em : <https://www.estrategiaconcursos.com.br/blog/programacao-orientada/>. Acesso em : 24 de jan. 2025.
+Menezes, Elizabeth. Resumo de programação orientada a objetos. EstrategiaConcursos. Disponível em : <https://www.estrategiaconcursos.com.br/blog/programacao-orientada/>. Acesso em : 24 de jan. 2025.
 
 Wellington. Conceitos e Exemplos – Polimorfismo: Programação Orientada a Objetos. DevMedia. Disponível em : <https://www.devmedia.com.br/conceitos-e-exemplos-polimorfismo-programacao-orientada-a-objetos/18701>. Acesso em : 24 de jan. 2025.
 
